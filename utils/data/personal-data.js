@@ -11,7 +11,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/subodh-rakshit/',
   // twitter: 'https://twitter.com/subodh-rakshit',
   // stackOverflow: 'https://stackoverflow.com/users//subodh-rakshit',
-  // leetcode: "https://leetcode.com/subodh-rakshit/",
-  devUsername: "said3812",
-  resume: "https://drive.google.com/file/d/1_71OtCNcoEWvsQOGspWNB6oW9Rjb6nu5/view?usp=sharing"
+  // leetcode: "https://leetcode.com/subodh-rakshit/"
 }
